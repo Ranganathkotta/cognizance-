@@ -1,0 +1,2 @@
+this is command for git merge
+

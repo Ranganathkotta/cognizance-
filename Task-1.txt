@@ -3,3 +3,4 @@ this is the text for git add command
 this is command line for git commit -b
 this is command for git fetch
 this is command for git pull
+this is command for git reset

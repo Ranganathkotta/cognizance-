@@ -1,2 +1,2 @@
 this is command for git merge
-
+this is command for git rebase
